@@ -1,0 +1,40 @@
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Infrastructure.deps.json
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Infrastructure.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Infrastructure.pdb
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Application.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Shared.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProducto.Domain.pdb
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Application.pdb
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Shared.pdb
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.AssemblyInfo.cs
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.sourcelink.json
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProd.D3E4D15B.Up2Date
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\refint\TestProductos.Infrastructure.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.pdb
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Productos.Infrastructure\obj\Debug\net9.0\ref\TestProductos.Infrastructure.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Infrastructure.deps.json
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Infrastructure.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Infrastructure.pdb
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Application.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Shared.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProducto.Domain.pdb
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Application.pdb
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\bin\Debug\net9.0\TestProductos.Shared.pdb
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.AssemblyInfo.cs
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.sourcelink.json
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProd.D3E4D15B.Up2Date
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\refint\TestProductos.Infrastructure.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\TestProductos.Infrastructure.pdb
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Productos.Infrastructure\obj\Debug\net9.0\ref\TestProductos.Infrastructure.dll

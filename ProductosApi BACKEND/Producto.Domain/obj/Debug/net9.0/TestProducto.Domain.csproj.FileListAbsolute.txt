@@ -1,0 +1,24 @@
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\bin\Debug\net9.0\TestProducto.Domain.deps.json
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\bin\Debug\net9.0\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\bin\Debug\net9.0\TestProducto.Domain.pdb
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.AssemblyInfoInputs.cache
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.AssemblyInfo.cs
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.sourcelink.json
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\refint\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.pdb
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\ref\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\bin\Debug\net9.0\TestProducto.Domain.deps.json
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\bin\Debug\net9.0\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\bin\Debug\net9.0\TestProducto.Domain.pdb
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.AssemblyInfoInputs.cache
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.AssemblyInfo.cs
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.sourcelink.json
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\refint\TestProducto.Domain.dll
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\TestProducto.Domain.pdb
+C:\Users\ricar\Repository\Workspaces\GitHub\TEST-CSTI-FRONTEND\ProductosApi BACKEND\Producto.Domain\obj\Debug\net9.0\ref\TestProducto.Domain.dll

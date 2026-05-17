@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "Productos.Api.Controllers.ProductoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Producto/consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Productos.Api.Controllers.ProductoController",
+    "Method": "Create",
+    "RelativePath": "api/Producto/insertar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TestProductos.Application.Dtos.ProductoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,5 @@
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\Producto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\Producto.Domain.AssemblyInfoInputs.cache
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\Producto.Domain.AssemblyInfo.cs
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\Producto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Repository\Workspaces\Test_CSTI CORP\Productos BACKEND\ProductosApi\Producto.Domain\obj\Debug\net9.0\Producto.Domain.sourcelink.json

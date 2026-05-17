@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "7uUvCh/P5vc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricar\\Repository\\Workspaces\\GitHub\\TEST-CSTI-FRONTEND\\ProductosApi BACKEND\\Productos.Application\\TestProductos.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"AutoMapper\" 12.0.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "C:\\Users\\ricar\\Repository\\Workspaces\\GitHub\\TEST-CSTI-FRONTEND\\ProductosApi BACKEND\\Productos.Application\\TestProductos.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ricar\\Repository\\Workspaces\\GitHub\\TEST-CSTI-FRONTEND\\ProductosApi BACKEND\\Productos.Application\\TestProductos.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
