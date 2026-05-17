@@ -1,0 +1,83 @@
+<div class="dashboard">
+    <div class="header">
+        <h1>Panel de Productos</h1>
+    </div>
+
+    <div class="filtros-card">
+        <div class="filtros-title">
+            <span>Filtros de busqueda</span>
+        </div>
+        <div class="filtros-grid">
+            <div class="filtro-group">
+                <label>Código</label>
+                <input 
+                    type="text" 
+                    [(ngModel)]="fCodigo" 
+                    (input)="filtrar()" 
+                    placeholder="Ej: PRD-001">
+            </div>
+            <div class="filtro-group">
+                <label>Nombre</label>
+                <input 
+                    type="text" 
+                    [(ngModel)]="fNombre" 
+                    (input)="filtrar()" 
+                    placeholder="Buscar por nombre...">
+            </div>
+            <button class="btn-clear" (click)="limpiarFiltros()">
+                Limpiar Filtros
+            </button>
+        </div>
+    </div>
+
+    <div class="lista-card">
+        <div class="lista-header">
+            <div class="lista-titulo-section">
+                <h3>Listado de productos</h3>
+                <div class="badge-count">{{ productos.length }} productos</div>
+            </div>
+            <button class="btn-nuevo" (click)="abrirFormulario()">
+                <span>+</span> Nuevo Producto
+            </button>
+        </div>
+
+        <div class="table-wrapper">
+            @if (loading) {
+                <div class="loading-state">
+                    <div class="spinner"></div>
+                    <p>Cargando productos...</p>
+                </div>
+            }
+
+            @if (!loading) {
+                <table class="product-table">
+                    <thead>
+                        <tr>
+                            <th>Código</th>
+                            <th>Nombre</th>
+                            <th>Descripción</th>
+                            <th>Precio</th>
+                            <th>Fecha</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let item of productos">
+                        <td><span class="codigo-badge">{{ item.codigo }}</span></td>
+                        <td>{{ item.nombre }}</td>
+                        <td class="descripcion-text">{{ item.descripcion || '-' }}</td>
+                        <td class="precio-text"> {{ item.precio | currency:'S/. ':'symbol':'1.2-2' }}</td>
+                        <td class="fecha-text">{{ item.fechaCreacion | date:'dd/MM/yyyy' }}</td>
+                        
+                        </tr>
+                        <tr *ngIf="productos.length === 0">
+                        <td colspan="5" class="text-center">
+                            No se encontraron productos
+                        </td>
+                        </tr>
+                       
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</div>
