@@ -19,3 +19,20 @@ TEST-CSTI-FRONTEND/
 - **Angular 19** - Framework principal
 - **TypeScript** - Lenguaje de programación
 - **Bootstrap / CSS** - Estilos y diseño responsive
+
+## Cómo ejecutar
+
+### Base de datos
+Ejecutar el archivo **Creacion de productos.sql**
+### Backend
+1. Abrir solución en Visual Studio
+2. Configurar connection string
+3. Ejecutar `dotnet run`
+
+### Frontend
+1. `npm install`
+2. `ng serve -o`
+
+## Endpoints
+- GET /api/Producto/consultar
+- POST /api/Producto/insertar
