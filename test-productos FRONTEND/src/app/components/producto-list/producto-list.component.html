@@ -57,7 +57,7 @@
                             <th>Nombre</th>
                             <th>Descripción</th>
                             <th>Precio</th>
-                            <th>Fecha</th>
+                            <th>Fecha Creación</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -66,7 +66,7 @@
                         <td>{{ item.nombre }}</td>
                         <td class="descripcion-text">{{ item.descripcion || '-' }}</td>
                         <td class="precio-text"> {{ item.precio | currency:'S/. ':'symbol':'1.2-2' }}</td>
-                        <td class="fecha-text">{{ item.fechaCreacion | date:'dd/MM/yyyy' }}</td>
+                        <td class="fecha-text">{{ item.fechaCreacion | date:'dd/MM/yyyy hh:mm a' }}</td>
                         
                         </tr>
                         <tr *ngIf="productos.length === 0">

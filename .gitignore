@@ -1,0 +1,68 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.tmp
+
+# Test results
+TestResults/
+*.trx
+
+# Node / Angular
+node_modules/
+.angular/
+dist/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+desktop.ini
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# Database
+*.mdf
+*.ldf
+*.db
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+*.coverage
+
+# Publish
+publish/
+*.pubxml.user

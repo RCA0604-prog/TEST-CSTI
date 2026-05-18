@@ -20,4 +20,9 @@ export class ProductoService{
         return this.http.get(`${this.apiUrl}/Producto/consultar`, { params });
     }
 
+    create(producto: any): Observable<any> {
+        return this.http.post(`${this.apiUrl}/Producto/insertar`, producto);
+    }
+
+
 }
